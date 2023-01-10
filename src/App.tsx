@@ -31,6 +31,7 @@ export function App() {
               <br />
               <Heading size='md'><h3 className='text-gray-200 font-light'>FRONT-END DEVELOPER</h3></Heading>
               <div className='flex gap-1'>
+
                 <img src="./public/react.svg" alt="" />
                 <img src="./public/javascript.svg" alt="" />
                 <img src="./public/html.svg" alt="" />
@@ -38,6 +39,7 @@ export function App() {
                 <img src="./public/tailwind.svg" alt="" />
                 <img src="./public/github.svg" alt="" />
                 <img src="./public/git.svg" alt="" />
+                
               </div>
               
 
