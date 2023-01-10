@@ -23,7 +23,7 @@ export function App() {
         <main className='flex flex-col items-center'>
           <div className='flex items-center gap-16 mb-16'>
             {/* <img className="h-40 w-40 border-t-2 border-l-2 border-l-yellow-500 border-b-2 border-b-yellow-500 rounded-full" src="https://media.licdn.com/dms/image/C4E03AQEH-yDRhYFSrw/profile-displayphoto-shrink_200_200/0/1640865016001?e=1678924800&v=beta&t=VI6ixd1Je4hfsFRX77wLay_Q2DjEjYGIfmZ-DzbY7LU" alt="" /> */}
-            <img typeof="image/svg+xml" src="./public/logo.svg" alt="" />
+            <img typeof="image/svg+xml" src="/public/logo.svg" alt="" />
             <div className='flex-col justify-start'>
               <Heading><h1 className='text-gray-100 font-semibold'>LUCAS RODRIGUES BORDIGNON</h1></Heading>
               <Text size='sm'>LARANJAL PAULISTA - SÃO PAULO, BRAZIL</Text>
@@ -33,12 +33,12 @@ export function App() {
               <div className='flex gap-1'>
 
                 <img typeof="image/svg+xml" src="/react.svg" alt="" />
-                <img typeof="image/svg+xml" src="./public/javascript.svg" alt="" />
-                <img typeof="image/svg+xml" src="./public/html.svg" alt="" />
-                <img typeof="image/svg+xml" src="./public/css.svg" alt="" />
-                <img typeof="image/svg+xml" src="./public/tailwind.svg" alt="" />
-                <img typeof="image/svg+xml" src="./public/github.svg" alt="" />
-                <img typeof="image/svg+xml" src="./public/git.svg" alt="" />
+                <img typeof="image/svg+xml" src="/public/javascript.svg" alt="" />
+                <img typeof="image/svg+xml" src="/public/html.svg" alt="" />
+                <img typeof="image/svg+xml" src="/public/css.svg" alt="" />
+                <img typeof="image/svg+xml" src="/public/tailwind.svg" alt="" />
+                <img typeof="image/svg+xml" src="/public/github.svg" alt="" />
+                <img typeof="image/svg+xml" src="/public/git.svg" alt="" />
                 
               </div>
               
