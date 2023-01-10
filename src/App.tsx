@@ -33,12 +33,12 @@ export function App() {
               <div className='flex gap-1'>
 
                 <img typeof="image/svg+xml" src="/react.svg" alt="" />
-                <img typeof="image/svg+xml" src="/public/javascript.svg" alt="" />
-                <img typeof="image/svg+xml" src="/public/html.svg" alt="" />
-                <img typeof="image/svg+xml" src="/public/css.svg" alt="" />
-                <img typeof="image/svg+xml" src="/public/tailwind.svg" alt="" />
-                <img typeof="image/svg+xml" src="/public/github.svg" alt="" />
-                <img typeof="image/svg+xml" src="/public/git.svg" alt="" />
+                <img typeof="image/svg+xml" src="/javascript.svg" alt="" />
+                <img typeof="image/svg+xml" src="/html.svg" alt="" />
+                <img typeof="image/svg+xml" src="/css.svg" alt="" />
+                <img typeof="image/svg+xml" src="/tailwind.svg" alt="" />
+                <img typeof="image/svg+xml" src="/github.svg" alt="" />
+                <img typeof="image/svg+xml" src="/git.svg" alt="" />
                 
               </div>
               
