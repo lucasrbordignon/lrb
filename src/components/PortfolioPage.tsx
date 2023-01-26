@@ -4,7 +4,7 @@ import { Text } from './Text';
 
 export function PortfolioPage() {
   return (
-      <div className='w-screen h-screen bg-gray-900 flex flex-col justify-between items-center'>
+      <div className='w-screen h-screen flex flex-col justify-between items-center'>
         <Navbar/> 
         <main className='flex flex-col items-center'>
           <div className='flex items-center gap-16 mb-16'>
@@ -52,7 +52,7 @@ export function PortfolioPage() {
 
         </main>
 
-        <footer className='max-w-max h-16 border-t-[1px] border-t-gray-800 flex items-center justify-around gap-[128px] pr-16 pl-16'>
+        <footer className='w-screen h-16 border-t-[1px] border-t-gray-800 flex items-center justify-around gap-[128px] pr-16 pl-16 lg:w-auto'>
           <div className='flex items-center justify-around gap-2'>
             <Heading size='md'><p className='text-yellow-500'>LRB</p></Heading>
             <Text size='sm'><p className='text-gray-400'>© 2022 LRB</p></Text>

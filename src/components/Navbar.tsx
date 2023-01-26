@@ -7,17 +7,12 @@ export function Navbar() {
   return (
     <>
       <nav className="relative flex flex-wrap items-center justify-between px-2 py-3 mb-3">
-        <div className="w-screen container px-8 mx-auto flex flex-wrap items-center justify-between">
+        <div className="w-screen container px-16 mx-auto flex flex-wrap items-center justify-around">
           <div className="w-full relative flex justify-between gap-[256px] lg:w-auto lg:static lg:block lg:justify-start">
-          <Heading size='lg'>
-            <h1 className='text-yellow-500'>LRB</h1>
-          </Heading>
-            {/* <a
-              className="text-sm font-bold leading-relaxed inline-block mr-4 py-2 whitespace-nowrap uppercase text-yellow-500"
-              href="#pablo"
-            >
-              LRB
-            </a> */}
+            <Heading size='lg'>
+              <h1 className='text-yellow-500'>LRB</h1>
+            </Heading>
+
             <button
               className="text-white cursor-pointer text-xl leading-none px-3 py-1 bg-transparent block lg:hidden outline-none focus:outline-none"
               type="button"
