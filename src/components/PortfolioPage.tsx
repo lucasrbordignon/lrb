@@ -37,7 +37,7 @@ export function PortfolioPage() {
                 I was born in a small town in São Paulo, in the Campinas region. <br />
                 Since I was a child, I have been interested in computing, even though my family was not able to give me a PC, but I was able to study. <br />
                 That's when I passed a small entrance exam and started my studies in basic computing. That's where it all started. <br />
-                Today, I'm Software Developer at UmPontoDois with 7 months of experience working with GeneXus, SQL Server and MySQL. <br />
+                Today, I'm Software Developer at UmPontoDois with 10 months of experience working with GeneXus, SQL Server and MySQL. <br />
                 I started learning web development at university, I know we were meant to be together hahaha. <br />
                 I'm looking to become a top front-end developer. <br />
                 Between my studies, I felt the need to know a little about UX/UI and design system, now all my projects start in Figma. <br />
