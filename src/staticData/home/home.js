@@ -24,8 +24,8 @@ import tailwind from "@/public/assets/img/skill/tailwind.svg";
 import compusis from "@/public/assets/img/partners/compusis.png";
 import umpontodois from "@/public/assets/img/partners/umpontodois.png";
 
-import userImageLight from "@/public/assets/img/user-sidebar-thumb-light.png";
-import userImage from "@/public/assets/img/user-sidebar-thumb.png";
+const userImage = "/assets/img/user-sidebar-thumb-light.png";
+const userImageLight = "/assets/img/user-sidebar-thumb-light.png";
 
 import { default as portfolioImage1, default as portfolioImage1Thumb } from "@/public/assets/img/portfolio/portfolio-img1.png";
 
